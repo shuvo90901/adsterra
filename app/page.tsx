@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <main>
       <div className="">
-        <div className="">Testing app Testing app</div>
+        <div className="">Testing Testing Testing Testing Testing</div>
         <div className="">Testing app Testing app</div>
         <ImageUploader/>
         <div className="">Testing app Testing app</div>
