@@ -17,6 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+      <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
       <meta name="admverifysite" content="6c28a445ebe294e1a8fc1c296633a628" />
       </head>
       <body className={inter.className}>{children}</body>

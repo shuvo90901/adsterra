@@ -1,12 +1,13 @@
 "use client"
 // components/AdStartGetScript.js
 
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 
-const AdCash = () => {
+const AdsCash = () => {
   useEffect(() => {
     const script = document.createElement('script');
     script.type = 'text/javascript';
+    script.async = true;
     script.innerHTML = `
       aclib.runAutoTag({
           zoneId: 'bf4lqdber9',
@@ -22,4 +23,4 @@ const AdCash = () => {
   return null;
 };
 
-export default AdCash;
+export default AdsCash;
