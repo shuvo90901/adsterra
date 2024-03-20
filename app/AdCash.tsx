@@ -8,8 +8,8 @@ const AdCash = () => {
     const script = document.createElement('script');
     script.type = 'text/javascript';
     script.innerHTML = `
-      aclib.runAutoTag({
-          zoneId: 'bf4lqdber9',
+      aclib.runBanner({
+          zoneId: '8203406',
       });
     `;
     document.head.appendChild(script);
