@@ -24,6 +24,7 @@ export default function RootLayout({
       async
       ></script>
       <meta name="admverifysite" content="6c28a445ebe294e1a8fc1c296633a628" />
+      <meta name="confirm" content="partners-house-179632" />
       </head>
       <body className={inter.className}>{children}</body>
     </html>
