@@ -23,6 +23,11 @@ export default function RootLayout({
       src="//acscdn.com/script/aclib.js"
       async
       ></script>
+              <script type="text/javascript" src="/externalScripts.js" async></script>
+
+<script type="text/javascript" src="https://news-zacine.com/code/https-v2.js?uid=179632&site=1222311952&banadu=0&sub1=sub1&sub2=sub2&sub3=sub3&sub4=sub4" async></script>
+<script type="text/javascript" src="https://news-koxewa.cc/process.js?id=1222311952&p1=sub1&p2=sub2&p3=sub3&p4=sub4" async></script>
+
       <meta name="admverifysite" content="6c28a445ebe294e1a8fc1c296633a628" />
       <meta name="confirm" content="partners-house-179632" />
       </head>

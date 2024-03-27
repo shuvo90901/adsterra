@@ -6,6 +6,7 @@ import QueryPage from "./QueryPage";
 import ImageUploader from "./ABCABC";
 import AdCash from "./AdCash";
 import AdsCash from "./AdsCash";
+import ExternalScripts from "./ExternalScripts";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
 {/* <!-- AdsTargets - Ad Display Code --> */}
 <AdCash/>
 <AdsCash/>
+<ExternalScripts/>
         <div className="">Testing Testing Testing Testing Testing</div>
         <div className="">Testing app Testing app</div>
         {/* <ImageUploader/> */}
